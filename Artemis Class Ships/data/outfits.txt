@@ -1,0 +1,13 @@
+outfit "Linear Aerospike"
+	category "Engines"
+	"cost" 2240000
+	thumbnail "outfit/Linear Areospike4"
+	"mass" 30
+	"outfit space" -25
+	"engine capacity" -25
+	"thrust" 20
+	"thrusting energy" 2.5
+	"thrusting heat" 6
+	"flare sprite" "effect/linearv/linearflame"
+		"frame rate" 12
+	"flare sound" "plasma huge"
